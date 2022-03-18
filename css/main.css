@@ -63,3 +63,9 @@ dl dt{
 ul{
   list-style-type:circle;
 }
+
+.footer a {
+  font-size: 1.125rem;
+  font-family: serif;
+
+}
