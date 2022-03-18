@@ -3,6 +3,8 @@ html {
   background-color: #c9b5ab;
   color: #222;
   font-family: "PT Serif", serif;
+  line-height: 1.5;
+  font-weight: normal;
 }
 
 *, *::before, *::after {
